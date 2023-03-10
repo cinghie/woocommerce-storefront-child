@@ -1,4 +1,4 @@
-# woocommerce-storefront-child
+# Woocommerce Storefront Child
 
 Child Theme for Storefront, Woocommerce Official Theme.
 
