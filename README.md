@@ -10,5 +10,5 @@ https://woocommerce.com/storefront/
 Go to folder wp-content/themes/
 
 ```
-git clone https://github.com/cinghie/woocommerce-storefront-child.git woocommerce-storefront-child
+git clone https://github.com/cinghie/woocommerce-storefront-child.git storefront-child
 ```
